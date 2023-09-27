@@ -4,15 +4,10 @@
   <img src="Welcome-Pic.jpg" alt="Precious Flowers">
   <h1>My name is Precious Flowers, welcome to my 1st webpage!</h1>
 </header>
-<main>
-  <section>
-    <h2><strong>All About Me</strong></h2>
+    <h2><strong>All About Me</strong></h2> <br>
     <p>Im a Junior majoring in Informational Technology and I enjoy drawing, creating digital products, shopping, and traveling.</p>
-  </section>
-  <section>
-    <h2><strong>Contact Me</strong></h2>
-  </section>
-</main>
+  <h2><strong>Contact Me</strong></h2> <br>
+    <p>Email: pflower3@students.kennesaw.edu</p>
   <footer>
     <p> &copy; 2023 Precious F. IT3203</p>
   </footer>
