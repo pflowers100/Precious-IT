@@ -13,7 +13,7 @@
     </ul>
   </nav>
   <footer>
-    <p> &copy; 2023 PreciousF IT3203</p>
+    <p> &copy; 2023 PFlowers IT3203</p>
   </footer>
 </body>
 </html>
