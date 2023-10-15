@@ -7,6 +7,7 @@
     <br>
   <nav>
     <ul>
+      <li><h2><strong><a href="featuredcontent.html">Featured Content</a></strong></h2></li>
       <li><h2><strong><a href="about.html">About Me</a></strong></h2></li>
       <li><h2><strong><a href="contact.html">Contact</a></strong></h2></li>
     </ul>
