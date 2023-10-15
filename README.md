@@ -9,8 +9,10 @@
     <ul>
       <li><h2><strong><a href="about.html">About Me</a></strong></h2></li>
       <li><h2><strong><a href="contact.html">Contact</a></strong></h2></li>
+    </ul>
+  </nav>
   <footer>
-    <p> &copy; 2023 Precious F. IT3203</p>
+    <p> &copy; 2023 PreciousF IT3203</p>
   </footer>
 </body>
 </html>
