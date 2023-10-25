@@ -3,7 +3,7 @@
   <title>Precious Flowers</title>
     <style>
       h1 {
-        color: orange;
+        color: #FFA500;
         }
     </style>
   </head>
