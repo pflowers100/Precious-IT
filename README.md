@@ -1,4 +1,12 @@
 <html>
+  <head>
+    <title> Precious Flowers</title>
+    <style>
+      h1 {
+        color: orange;
+        }
+    </style>
+  </head>
 <body>
 <header>
   <img src="Welcome Pic.jpg" width = "200" height = "250" alt="Welcome Pic">
