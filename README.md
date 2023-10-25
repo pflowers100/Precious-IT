@@ -1,6 +1,6 @@
 <html>
-  <head>
-    <title> Precious Flowers</title>
+<head>
+  <title>Precious Flowers</title>
     <style>
       h1 {
         color: orange;
