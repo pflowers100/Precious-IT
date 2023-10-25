@@ -1,10 +1,10 @@
 <html>
 <head>
-  <title>Precious Flowers</title>
-    <style>
-      h1 {
-        color: #FFA500;
-        }
+<title>Precious Flowers</title>
+  <style>
+    h1 {
+      color: #FFA500;
+      }
     </style>
   </head>
 <body>
