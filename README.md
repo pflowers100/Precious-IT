@@ -1,7 +1,7 @@
 <html>
 <body>
 <header>
-  <img src="Welcome Pic.jpg" width = "200" height = "250" alt="Welcome Pic>
+  <img src="Welcome Pic.jpg" width = "200" height = "250" alt="Welcome Pic">
   <h1>Welcome, my name is Precious Flowers!</h1>
 </header>
     <br>
